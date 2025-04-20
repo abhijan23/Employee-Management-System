@@ -7,7 +7,7 @@ Project: Maven<br>
 Language: Java<br>
 Spring Boot Version: Latest Stable(3.x)<br>
 Added Dependencies:<br>
-    --> Spring Web
-    --> Spring Data JPA
-    --> Spring Boot DevTools
-    --> H2 Database
+    --> Spring Web<br>
+    --> Spring Data JPA<br>
+    --> Spring Boot DevTools<br>
+    --> H2 Database<br>
