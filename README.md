@@ -12,4 +12,7 @@ Added Dependencies:<br>
     --> Spring Boot DevTools<br>
     --> H2 Database<br>
 Project Metadata:<br>
-    --> Group: ```com.example```
+    --> Group: ```com.example```<br>
+    --> Artifact: ```employee-management```<br>
+    --> Name: ```employee-management```<br>
+    --> Package Name: ```com.example.employeemanagement```<br>
