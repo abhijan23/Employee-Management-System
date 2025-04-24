@@ -11,3 +11,5 @@ Added Dependencies:<br>
     --> Spring Data JPA<br>
     --> Spring Boot DevTools<br>
     --> H2 Database<br>
+Project Metadata:<br>
+    --> Group: ```com.example```
