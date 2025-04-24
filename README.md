@@ -16,3 +16,4 @@ Project Metadata:<br>
     --> Artifact: ```employee-management```<br>
     --> Name: ```employee-management```<br>
     --> Package Name: ```com.example.employeemanagement```<br>
+Backend Testing Tool for endpoint testing: ```Postman```
